@@ -1,0 +1,13 @@
+{
+    "repo_name": "BMOS Official Repo",
+    "apps": [
+        {
+            "name": "weather",
+            "display_name": "Weather",
+            "version": "1.0",
+            "author": "Jonny",
+            "description": "Simple weather application",
+            "download": "https://elaborateedu.github.io/bmos-repo/weather.zip"
+        }
+    ]
+}
